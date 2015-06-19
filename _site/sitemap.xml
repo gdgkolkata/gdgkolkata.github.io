@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://gdg-x.github.io/zeppelin/blog/call-for-papers</loc>
+    <loc>http://gdg-x.github.io/blog/call-for-papers</loc>
     <lastmod>2014-07-21T14:30:00+05:30</lastmod>
   </url>
   <url>
-    <loc>http://gdg-x.github.io/zeppelin/blog/hello-world</loc>
+    <loc>http://gdg-x.github.io/blog/hello-world</loc>
     <lastmod>2014-07-21T13:30:00+05:30</lastmod>
   </url>
   <url>
-    <loc>http://gdg-x.github.io/zeppelin/blog/</loc>
+    <loc>http://gdg-x.github.io/blog/</loc>
   </url>
   <url>
-    <loc>http://gdg-x.github.io/zeppelin/cod/</loc>
+    <loc>http://gdg-x.github.io/cod/</loc>
   </url>
   <url>
-    <loc>http://gdg-x.github.io/zeppelin/gsa/</loc>
+    <loc>http://gdg-x.github.io/gsa/</loc>
   </url>
   <url>
-    <loc>http://gdg-x.github.io/zeppelin/hackathon/</loc>
+    <loc>http://gdg-x.github.io/hackathon/</loc>
   </url>
   <url>
-    <loc>http://gdg-x.github.io/zeppelin/</loc>
+    <loc>http://gdg-x.github.io/</loc>
   </url>
   <url>
-    <loc>http://gdg-x.github.io/zeppelin/logistics/</loc>
+    <loc>http://gdg-x.github.io/logistics/</loc>
   </url>
   <url>
-    <loc>http://gdg-x.github.io/zeppelin/schedule/</loc>
+    <loc>http://gdg-x.github.io/schedule/</loc>
   </url>
   <url>
-    <loc>http://gdg-x.github.io/zeppelin/speakers/</loc>
+    <loc>http://gdg-x.github.io/speakers/</loc>
   </url>
   <url>
-    <loc>http://gdg-x.github.io/zeppelin/team/</loc>
+    <loc>http://gdg-x.github.io/team/</loc>
   </url>
 </urlset>

@@ -1,8 +1,8 @@
-# GDG Kolkata 2014 site template
+# GDG Kolkata 2015 site template
 
 ### About 
 
-Template is forked from Project Zeppeling, developed = by [GDG Lviv](http://lviv.gdg.org.ua/) team.
+Template is forked from Project Zeppelin, developed = by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
 ### Status
 
